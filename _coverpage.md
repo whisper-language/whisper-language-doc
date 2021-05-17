@@ -6,7 +6,7 @@
 
 [源码](https://github.com/Crtrpt/whisper-language)
 [开始](README)
-[在线体验](https://github.com/whisper-language/whisper-language-doc/online.html)
+[在线体验](https://whisper-language.github.io/whisper-language-doc/online.html)
 
 
 
